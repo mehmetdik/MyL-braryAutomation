@@ -1,0 +1,5 @@
+C:\Users\mehmet\documents\visual studio 2012\Projects\12253021HW2\12253021HW2\bin\Debug\12253021HW2.exe.config
+C:\Users\mehmet\documents\visual studio 2012\Projects\12253021HW2\12253021HW2\bin\Debug\12253021HW2.exe
+C:\Users\mehmet\documents\visual studio 2012\Projects\12253021HW2\12253021HW2\bin\Debug\12253021HW2.pdb
+C:\Users\mehmet\documents\visual studio 2012\Projects\12253021HW2\12253021HW2\obj\Debug\12253021HW2.exe
+C:\Users\mehmet\documents\visual studio 2012\Projects\12253021HW2\12253021HW2\obj\Debug\12253021HW2.pdb
